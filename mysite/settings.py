@@ -25,7 +25,7 @@ SECRET_KEY = 'ju1m^l&yb9ct&&-l)&4!bu(tekt_iu21jai3xi@b0byih01t&h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['evelynch.pythonanywhere.com']
+ALLOWED_HOSTS = ['evelynch.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
